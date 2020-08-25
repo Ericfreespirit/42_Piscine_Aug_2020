@@ -1,0 +1,5 @@
+Credentials cache: API:4163FE7D-7AF2-44D3-AA43-8E903CD8BCC3
+        Principal: eriling@42.FR
+
+  Issued                Expires               Principal
+Aug  3 11:44:08 2020  Aug 10 11:44:01 2020  krbtgt/42.FR@42.FR
